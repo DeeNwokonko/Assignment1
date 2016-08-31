@@ -1,0 +1,6 @@
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
